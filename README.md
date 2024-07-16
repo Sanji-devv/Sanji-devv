@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello there, Welcome to my GitHub profile ![](https://komarev.com/ghpvc/?username=Sanji-devv&color=blue&&style=flat)
 
-<!--
-**Sanji-devv/Sanji-devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Erdem Uğur Şahin, a Software Developer from Turkey!
 
-Here are some ideas to get you started:
+## My Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/erdem-u%C4%9Fur-%C5%9Fahin/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+## About me
+
+### I'm interested in Software Development and making mods for games.
+
+<div>
+  I know these programs:
+  <ul>
+    <li>Java</li>
+    <li>Python</li>
+    <li>MySQL</li>
+    <li>MS Excel and Power BI</li>
+  </ul>
+</div>
