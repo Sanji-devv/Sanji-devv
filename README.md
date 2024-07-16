@@ -1,17 +1,3 @@
-## Hello there, Welcome to my GitHub profile ![](https://komarev.com/ghpvc/?username=Sanji-devv&color=blue&&style=flat)
-
-Hi, I'm Erdem Uğur Şahin, a Software Developer from Turkey!
-
-## My Socials
-
-<a href="https://www.linkedin.com/in/erdem-u%C4%9Fur-%C5%9Fahin/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-## About me
-
-### I'm interested in Software Development and making mods for games.
-
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -31,10 +17,10 @@ Hi, I'm Erdem Uğur Şahin, a Software Developer from Turkey!
 <h3 align="left">Tools:</h3>
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
