@@ -1,6 +1,6 @@
 ## Hello there, Welcome to my GitHub profile ![](https://komarev.com/ghpvc/?username=Sanji-devv&color=blue&&style=flat)
 
-Hi, I'm Erdem Uğur Şahin, a Software Developer from Turkey!
+Hi, I'm Erdem, a Software Developer from Turkey!
 
 ## My Socials
 
